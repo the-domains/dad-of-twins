@@ -1,0 +1,28 @@
+name: Dad of Twins
+favicon: null
+layout_spectrum: 0.5296909969765693
+typography_spectrum: 0.2900275436695665
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2749121238011867
+  lightness: 0.5690498356707394
+  saturation: 0.97538360231556
+  rhythmicContrast: 0.11937528196722269
+purpose: []
